@@ -1,0 +1,19 @@
+loli.ball.imefix
+Key Promoter X
+Statistic
+com.intellij.spring
+com.starxg.mybatis-log-plugin-free
+Subversion
+mobi.hsz.idea.gitignore
+com.jetbrains.restClient
+PythonCore
+com.intellij.spring.websocket
+MavenRunHelper
+com.intellij.reactivestreams
+com.poratu.idea.plugins.tomcat
+cn.cloud.auto.restful.tool
+com.nasller.CodeGlancePro
+com.star.easydoc.easy-javadoc
+com.alibabacloud.intellij.cosy
+com.baomidou.plugin.idea.mybatisx
+izhangzhihao.rainbow.brackets
